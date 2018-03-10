@@ -19,7 +19,7 @@ glasstouch:
              class: ConeEffect
              iterations: 10
              particle: redstone
-             color: 00b70c
+             color: 0037ff
              speed: 2
              lengthGrow: 0.1
              radiusGrow: 0.003
