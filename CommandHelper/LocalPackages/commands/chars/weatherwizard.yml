@@ -6,7 +6,7 @@ costumes:
 buffs:
 - /shot give <plr> icespike
 - /give <plr> minecraft:ghast_tear 1 19:50 name:&fWindblast
-- /mgive <plr> tsunamiwand
+- /mgive <plr> weatherwizardspowers
 class: weatherwizard
 op: false
 permissions:
