@@ -7431,6 +7431,12 @@ groups:
         permissions:
         - ch.alias.dismountplayer
         - ch.alias.carryplayer
+  newtscamander:
+    inheritance:
+    - commonherotraits
+    options:
+      suffix: '&9'
+      prefix: '&1Ne&9wt &6Sc&eama&4n&eder'  
   captaincold:
     inheritance:
     - commonherotraits
