@@ -9302,6 +9302,12 @@ groups:
     options:
       suffix: '&8'
       prefix: '&0A&8bra &fK&0a&8d&0a&8bra'
+  kilg%re:
+    inheritance:
+    - commonherotraits
+    options:
+      suffix: '&d'
+      prefix: '&5Ki&dl&5g&6%&5r&de'
   hermes:
     inheritance:
     - commonherotraits
