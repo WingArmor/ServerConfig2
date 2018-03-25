@@ -7,7 +7,7 @@ costumes:
 effects: [
   ]
 items: 
-- /mgive <plr> voldemortswand
+- /mgive <plr> newtscamanderswand
 powers:
 - /effects
 - /items
