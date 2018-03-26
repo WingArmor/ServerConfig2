@@ -2,6 +2,7 @@ technokinesiswand:
   version: 5
   spell_inventory:
     technokinesis: 0
+    flashbang: 1
   active_spell: technokinesis
   spell_levels: {}
   mana: 200.0
@@ -12,6 +13,7 @@ technokinesiswand:
   page: 0
   spells:
   - technokinesis
+  - flashbang
   bound: true
   keep: true
   invulnerable: true
