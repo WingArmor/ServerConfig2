@@ -54,6 +54,6 @@ technokinesis:
         destructible: unlocked_doors
         transparent: transparent_to_construction
         undo: 8000
-        cooldown: 50
+        cooldown: 5
     costs:
         mana: 5
